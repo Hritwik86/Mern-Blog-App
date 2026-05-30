@@ -23,3 +23,4 @@ Coming Soon...
 2. Install Core Packages
 3. Creating Clean Folder Structure
 4. Routing Setup
+5. Setup Styles

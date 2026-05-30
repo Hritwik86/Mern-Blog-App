@@ -44,3 +44,7 @@ Maintaing Scalable and organizing project architecture
 ## Objective
 Enablaing Navigation Between Pages
 
+5. Setup Styles
+## Objective
+Creating a consistent ui design system
+
