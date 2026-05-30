@@ -12,11 +12,11 @@
 Coming Soon...
 
 ## 1 Workspace Setup
-Project initialization
-Root folder organization
-Git setup
-README creation
-Environment preparation
+1. Project initialization
+2. Root folder organization
+3. Git setup
+4. README creation
+5. Environment preparation
 
 ## 2 Frontend Setup
 1. Enviroment Setup in Frontend
