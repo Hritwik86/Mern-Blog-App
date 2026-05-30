@@ -40,3 +40,7 @@ Prepare frontend systems
 ## Objective
 Maintaing Scalable and organizing project architecture
 
+4. Routing Setup
+## Objective
+Enablaing Navigation Between Pages
+

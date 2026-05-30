@@ -22,3 +22,4 @@ Coming Soon...
 1. Enviroment Setup in Frontend
 2. Install Core Packages
 3. Creating Clean Folder Structure
+4. Routing Setup
