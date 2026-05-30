@@ -36,4 +36,7 @@ Prepare the frontend development workspace.
 ## Goal
 Prepare frontend systems
 
+3. Create Clean Folder Structure
+## Objective
+Maintaing Scalable and organizing project architecture
 
