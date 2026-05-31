@@ -25,3 +25,4 @@ Coming Soon...
 4. Routing Setup
 5. Setup Styles
 6. Layout Setup
+7. Api Communication Setup

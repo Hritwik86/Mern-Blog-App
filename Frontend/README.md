@@ -52,3 +52,7 @@ Creating a consistent ui design system
 ## Objective
 Reuse common page stucture in the application
 
+7. Api Communication Setup
+## Objective
+Preparing Frontend Backend Communication Layer Part
+
