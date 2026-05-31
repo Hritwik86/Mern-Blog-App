@@ -48,3 +48,7 @@ Enablaing Navigation Between Pages
 ## Objective
 Creating a consistent ui design system
 
+6. Layout Setup
+## Objective
+Reuse common page stucture in the application
+

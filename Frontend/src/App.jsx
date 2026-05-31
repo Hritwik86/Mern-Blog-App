@@ -11,6 +11,7 @@ const App = () => {
     <h1 className="text-5xl font-bold text-red-500">
       Tailwind Test
     </h1>
+    <h2 className='font-bold text-primary'>Hey Babes</h2>
     </>
     
 

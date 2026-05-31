@@ -24,3 +24,4 @@ Coming Soon...
 3. Creating Clean Folder Structure
 4. Routing Setup
 5. Setup Styles
+6. Layout Setup
