@@ -26,3 +26,4 @@ Coming Soon...
 5. Setup Styles
 6. Layout Setup
 7. Api Communication Setup
+8. State Management Setup

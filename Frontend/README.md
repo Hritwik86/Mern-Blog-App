@@ -56,3 +56,7 @@ Reuse common page stucture in the application
 ## Objective
 Preparing Frontend Backend Communication Layer Part
 
+8. State Management Setup
+## Objective
+Managing Shared frontend application state
+
