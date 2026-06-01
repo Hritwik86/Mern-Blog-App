@@ -9,6 +9,7 @@ import Profile from '../pages/Profile'
 import MainLayout from '../layouts/MainLayout';
 import AuthLayout from '../layouts/AuthLayout';
 import DashboardLayout from '../layouts/DashboardLayout';
+import ComponentDemo from '../pages/ComponentDemo'
 
 const AppRoutes = () => {
   return (
@@ -18,6 +19,7 @@ const AppRoutes = () => {
       <Route element={<MainLayout/>}>
         <Route path='/' element={<Home/>}/>
         <Route path='/profile' element={<Profile/>}/>
+        <Route path='/components' element={<ComponentDemo/>}/>
         </Route>
 
         {/* For AuthLayout Routes */}
@@ -31,8 +33,7 @@ const AppRoutes = () => {
         <Route element={<DashboardLayout/>} >
 
         <Route path='/dashboard' element={<Dashboard/>}/>
-        </Route>
-        
+        </Route>     
     </Routes>
   )
 }

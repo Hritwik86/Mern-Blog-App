@@ -60,3 +60,7 @@ Preparing Frontend Backend Communication Layer Part
 ## Objective
 Managing Shared frontend application state
 
+9. Shared Component systems
+## Objective
+Building reusable components for consistency
+

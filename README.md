@@ -27,3 +27,4 @@ Coming Soon...
 6. Layout Setup
 7. Api Communication Setup
 8. State Management Setup
+9. Shared Component System
