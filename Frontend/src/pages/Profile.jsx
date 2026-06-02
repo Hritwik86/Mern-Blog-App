@@ -10,7 +10,7 @@ const Profile = () => {
       <h2 className="text-blue font-extrabold">Context Api Text</h2>
       <p>User:{user ? user.name : 'No User have been Found Recently'};</p>
       <button
-        className
+        
         onClick={() => {
           logIn({
             name: 'Hritwik',

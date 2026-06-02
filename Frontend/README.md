@@ -94,3 +94,8 @@ Preparing the frontend authentication workflow
 ## Objective
 
 Improving maintainability and developer experience
+
+12. Final Frontend Setup Verification
+
+## Objective
+Verifying the Frontend Development Before Developing Feature(static and dynamic Features)
