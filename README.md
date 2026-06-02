@@ -28,3 +28,4 @@ Coming Soon...
 7. Api Communication Setup
 8. State Management Setup
 9. Shared Component System
+10. Authentication Preparation

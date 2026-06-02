@@ -10,6 +10,7 @@ import MainLayout from '../layouts/MainLayout';
 import AuthLayout from '../layouts/AuthLayout';
 import DashboardLayout from '../layouts/DashboardLayout';
 import ComponentDemo from '../pages/ComponentDemo'
+import ProtectedRoutes from './ProtectedRoutes'
 
 const AppRoutes = () => {
   return (
@@ -32,7 +33,10 @@ const AppRoutes = () => {
 
         <Route element={<DashboardLayout/>} >
 
-        <Route path='/dashboard' element={<Dashboard/>}/>
+        <Route path='/dashboard' element={
+          <ProtectedRoutes>
+            <Dashboard/>
+            </ProtectedRoutes>}/>
         </Route>     
     </Routes>
   )

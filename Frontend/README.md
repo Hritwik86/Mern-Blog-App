@@ -64,3 +64,6 @@ Managing Shared frontend application state
 ## Objective
 Building reusable components for consistency
 
+10. Authentication Preparation
+## Objective
+Preparing the frontend authentication workflow
