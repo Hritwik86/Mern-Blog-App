@@ -29,3 +29,4 @@ Coming Soon...
 8. State Management Setup
 9. Shared Component System
 10. Authentication Preparation
+11. Developer Tools Setup

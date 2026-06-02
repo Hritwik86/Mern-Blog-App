@@ -1,11 +1,11 @@
-import React from 'react'
+import React from 'react';
 
-const ErrorState = ({messagePart}) => {
+const ErrorState = ({ messagePart }) => {
   return (
     <>
-    <div className='text-center py-4 text-red-400'>{messagePart}</div>
+      <div className="text-center py-4 text-red-400">{messagePart}</div>
     </>
-  )
-}
+  );
+};
 
-export default ErrorState
+export default ErrorState;

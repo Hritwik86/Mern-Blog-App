@@ -1,13 +1,11 @@
-import React from 'react'
+import React from 'react';
 
-const Card = ({children}) => {
+const Card = ({ children }) => {
   return (
     <>
-    <div className='border rounded-lg shadow p-5 bg-white'>
-        {children}
-    </div>
+      <div className="border rounded-lg shadow p-5 bg-white">{children}</div>
     </>
-  )
-}
+  );
+};
 
-export default Card
+export default Card;
