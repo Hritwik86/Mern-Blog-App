@@ -29,3 +29,8 @@ Connected Mongodb Database
 
 ## Goal
 Preparing for request processing system
+
+7. Route Setup
+
+## Goal
+Creating api communication structure

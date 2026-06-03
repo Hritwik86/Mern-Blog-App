@@ -40,3 +40,4 @@ Coming Soon...
 4. Enviroment Configuration
 5. Database Setup
 6. Middleware Setup
+7. Route Setup
