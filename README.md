@@ -31,3 +31,7 @@ Coming Soon...
 10. Authentication Preparation
 11. Developer Tools Setup
 12. Final Frontend Setup Verification
+
+
+## Backend Setup
+1. Project Initialization
