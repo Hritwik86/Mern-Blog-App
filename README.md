@@ -39,3 +39,4 @@ Coming Soon...
 3. Server Setup
 4. Enviroment Configuration
 5. Database Setup
+6. Middleware Setup

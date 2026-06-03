@@ -24,3 +24,8 @@ For Secure sensitive Configuration and credentials
 
 ## Goal 
 Connected Mongodb Database
+
+6. Middleware Setup
+
+## Goal
+Preparing for request processing system
