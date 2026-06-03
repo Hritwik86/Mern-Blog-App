@@ -38,3 +38,4 @@ Coming Soon...
 2. Folder Structure Setup
 3. Server Setup
 4. Enviroment Configuration
+5. Database Setup

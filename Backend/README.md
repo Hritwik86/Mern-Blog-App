@@ -19,3 +19,8 @@ Initalized and ran the express server
 
 ## Goal 
 For Secure sensitive Configuration and credentials 
+
+5. Database Setup
+
+## Goal 
+Connected Mongodb Database
