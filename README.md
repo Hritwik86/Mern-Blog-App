@@ -36,3 +36,4 @@ Coming Soon...
 ## Backend Setup
 1. Project Initialization
 2. Folder Structure Setup
+3. Server Setup
