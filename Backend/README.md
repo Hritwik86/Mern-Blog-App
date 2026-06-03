@@ -14,3 +14,8 @@ Created a clean and scalable backend architecture
 
 ## Goal
 Initalized and ran the express server
+
+4. Enviroment Configuration
+
+## Goal 
+For Secure sensitive Configuration and credentials 

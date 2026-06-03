@@ -37,3 +37,4 @@ Coming Soon...
 1. Project Initialization
 2. Folder Structure Setup
 3. Server Setup
+4. Enviroment Configuration
