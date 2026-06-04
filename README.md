@@ -41,3 +41,4 @@ Coming Soon...
 5. Database Setup
 6. Middleware Setup
 7. Route Setup
+8. ErrorHandling Setup

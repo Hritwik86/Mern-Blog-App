@@ -34,3 +34,9 @@ Preparing for request processing system
 
 ## Goal
 Creating api communication structure
+
+8. Error Handling Setup
+
+## Goal
+
+Improving Backend stability and debugging
