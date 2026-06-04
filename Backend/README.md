@@ -40,3 +40,9 @@ Creating api communication structure
 ## Goal
 
 Improving Backend stability and debugging
+
+9. Api Testing Setup
+
+## Goal
+
+verifying backend Functionality
