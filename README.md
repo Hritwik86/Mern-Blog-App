@@ -43,3 +43,4 @@ Coming Soon...
 7. Route Setup
 8. ErrorHandling Setup
 9. Api Testing Setup
+10. Development Quality Setup
